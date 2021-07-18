@@ -8,9 +8,6 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-
-  {%- include custom-head.html -%}
   <meta name="google-site-verification=3snC19tZUWLbgQmCbFSLxUuPfD6q-mHYCDjwYkLtiUA" />
-  
   
 </head>
