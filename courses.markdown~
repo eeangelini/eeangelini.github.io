@@ -1,20 +1,17 @@
 ---
 layout: page
-title: null
 ---
 <head>
     <meta charset="utf-8">
     <title>Teaching</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description"
-          content="Erin Angelini, PhD Candidate, University of Washington">
-    <link rel="canonical" href="http://eangelini.com">
+    <link rel="canonical" href="http://eangelini/courses/.com">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/main.css">
+    <link rel="stylesheet" href="files/main.css">
 </head>
 
 <body>
-<div class="container">
+<div>
 
      <header class="d-flex flex-column flex-md-row justify-content-md-between ">
         <h2 style="color:rgb(80, 120, 160);" class="text-center">
@@ -27,9 +24,9 @@ title: null
             <a class="nav-link" href="/files/Angelini_CV_current.pdf">CV</a>
         </nav>
     </header>
-    <p style="font-size:15px">Below is a summary of my teaching experience as a teaching assistant at the UW. </p>
     <hr>
 
+    <p style="font-size:15px">Below is a summary of my teaching experience as a teaching assistant at UW. </p>
     
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
         <h3 style="color:#708090;" class="text-left">
@@ -37,7 +34,7 @@ title: null
         </h3>
     </header>
     <ul>
-	<li> Instructor: Dr. Zhen-Qing Chen </li>
+	<li> Instructor: Zhen-Qing Chen </li>
 	<li> Quarter: Fall 2019 </li>
 	<li> Course code: MATH 124 </li>
     </ul>
@@ -49,7 +46,7 @@ title: null
         </h3>
     </header>
     <ul>
-	<li> Instructor: Dr. Jeremy Upsal </li>
+	<li> Instructor: Jeremy Upsal </li>
 	<li> Quarter: Spring 2019 </li>
 	<li> Course code: AMATH 353 </li>
     </ul>

@@ -21,9 +21,9 @@ layout: default
             Erin Angelini
         </h2>
         <nav class="nav justify-content-center">
-            <a class="nav-link" href="/">Home</a>
-            <a class="nav-link" href="/projects/">Projects</a>
-	    <a class="nav-link" href="/courses/">Teaching</a>
+            <a class="nav-link" href="">Home</a>
+            <a class="nav-link" href="/projects">Projects</a>
+	    <a class="nav-link" href="/courses">Teaching</a>
             <a class="nav-link" href="/files/Angelini_CV_current.pdf">CV</a>
         </nav>
     </header>
