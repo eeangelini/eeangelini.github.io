@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Projects
 ---
 <head>
     <meta charset="utf-8">

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Teaching
 ---
 <head>
     <meta charset="utf-8">
