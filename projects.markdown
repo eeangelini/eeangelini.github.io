@@ -5,7 +5,7 @@ layout: page
     <meta charset="utf-8">
     <title>Projects</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="canonical" href="http://eangelini.com/projects/">
+    <link rel="canonical" href="https://eeangelini.github.io/projects">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
     <link rel="stylesheet" href="files/main.css">
 </head>
