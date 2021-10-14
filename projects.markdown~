@@ -27,26 +27,26 @@ title: Projects
     </header>
     <hr>
 
+    <p style="font-size:20px"> Coming Soon! </p>
+
+{% comment %}
+    <header class="d-flex flex-column flex-md-row justify-content-md-between ">
+        <h3 style="color:#21A362;" class="text-left">
+             Epigenetic Landscape for Cellular Differentiation
+	     <br>
+	     <p style="font-size:15px">
+	         <em>Univeristy of Washington (2020-) </em>
+	     </p>
+        </h3>
+    </header>
+    <hr>
+
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
         <h3 style="color:#21A362;" class="text-left">
              Evolutionary Dynamics of Tumor Recurrence
 	     <br>
 	     <p style="font-size:15px">
 	         <em>Univeristy of Washington (2019-) </em>
-	     </p>
-        </h3>
-    </header>
-    <img class="img-fluid d-block mx-auto" alt="Angelini et al. 2021 figure" title="Angelini et al. 2021 figure" src="/files/param_schema_1.png" width="1000" height="400">
-    Developed a simple, general model for tumor growth and induced drug resistance under chemotherapy. <ahref = " https://www.biorxiv.org/content/10.1101/2021.10.05.463253v1.full.pdf">Preprint available </a> on bioRxiv.
-    <hr>
-
-{% comment %}
-    <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#21A362;" class="text-left">
-             Statistical Equation of State for Gene Expression
-	     <br>
-	     <p style="font-size:15px">
-	         <em>Univeristy of Washington (2020-) </em>
 	     </p>
         </h3>
     </header>
