@@ -36,8 +36,8 @@ title: Projects
 	     </p>
         </h3>
     </header>
-    <img class="img-fluid d-block mx-auto" alt="Angelini et al. 2021 figure" title="Angelini et al. 2021 figure" src="/files/param_schema_1.png" width="1000" height="400">
-    Developed a simple, general model for tumor growth and induced drug resistance under chemotherapy. <ahref = " https://www.biorxiv.org/content/10.1101/2021.10.05.463253v1.full.pdf">Preprint available </a> on bioRxiv.
+    <img class="img-fluid d-block mx-auto" alt="Angelini et al. 2021 figure" title="Angelini et al. 2021 figure" src="/files/param_schema_1.png" width="800" height="320">
+    Developed a simple, general model for tumor growth and induced drug resistance under chemotherapy. <a href = " https://www.biorxiv.org/content/10.1101/2021.10.05.463253v1.full.pdf">Preprint available </a> on bioRxiv.
     <hr>
 
 {% comment %}
