@@ -32,7 +32,7 @@ title: Projects
              Evolutionary Dynamics of Tumor Recurrence
 	     <br>
 	     <p style="font-size:15px">
-	         <em>Univeristy of Washington (2019-) </em>
+	         <em>University of Washington (2019-) </em>
 	     </p>
         </h3>
     </header>
@@ -46,7 +46,7 @@ title: Projects
              Statistical Equation of State for Gene Expression
 	     <br>
 	     <p style="font-size:15px">
-	         <em>Univeristy of Washington (2020-) </em>
+	         <em>University of Washington (2020-) </em>
 	     </p>
         </h3>
     </header>
