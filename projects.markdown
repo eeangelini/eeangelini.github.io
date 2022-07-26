@@ -39,6 +39,7 @@ title: Projects
     <img class="img-fluid d-block mx-auto" alt="Angelini et al. 2021 figure" title="Angelini et al. 2021 figure" src="/files/param_schema_1.png" width="800" height="320">
     Intratumor cellular heterogeneity and non-genetic cell plasticity in tumors pose a recently recognized challenge to cancer treatment, particularly when it comes to a "stem-like" cell state that confers resistance to treatment. The double-edged-sword mechanism of treatment-induced drug resistance complements the selection of preexisting resistant cells in explaining post-treatment progression. Here, we present a generic elementary model and analytical examination of this intrinsic limitation to therapy. <a href = "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010319"> Published in PLoS Computational Biology, July 25, 2022 (doi: 10.1371/journal.pcbi.1010319).
     <hr>
+</div>
 
 {% comment %}
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
@@ -63,4 +64,3 @@ title: Projects
     </header>
 {% endcomment %}
 
-</div>
