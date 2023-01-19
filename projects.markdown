@@ -32,12 +32,16 @@ title: Projects
              Evolutionary Dynamics of Tumor Recurrence
 	     <br>
 	     <p style="font-size:15px">
-	         <em>University of Washington (2019-) </em>
+	         <em>University of Washington (2019-2022) </em>
 	     </p>
         </h3>
     </header>
     <img class="img-fluid d-block mx-auto" alt="Angelini et al. 2021 figure" title="Angelini et al. 2021 figure" src="/files/param_schema_1.png" width="800" height="320">
-    Intratumor cellular heterogeneity and non-genetic cell plasticity in tumors pose a recently recognized challenge to cancer treatment, particularly when it comes to a "stem-like" cell state that confers resistance to treatment. The double-edged-sword mechanism of treatment-induced drug resistance complements the selection of preexisting resistant cells in explaining post-treatment progression. Here, we present a generic elementary model and analytical examination of this intrinsic limitation to therapy. <a href = "https://www.biorxiv.org/content/10.1101/2021.10.05.463253v2">Preprint available </a> on bioRxiv (doi: 10.1101/2021.10.05.463253).
+    <p> Intratumor cellular heterogeneity and non-genetic cell plasticity in tumors pose a recently recognized challenge to cancer treatment, particularly when it comes to a "stem-like" cell state that confers resistance to treatment. The double-edged-sword mechanism of treatment-induced drug resistance complements the selection of preexisting resistant cells in explaining post-treatment progression. Here, we present a generic elementary model and analytical examination of this intrinsic limitation to therapy. </p>
+    <p> Angelini <i> et al. </i> "A model for the intrinsic limit of cancer
+    therapy: Duality of treatment-induced cell death and treatment-induced stemness." <i> PLoS Comput Biol </i> 18(7): 1010319 (2022).
+    <a href = "https://doi.org/10.1371/journal.pcbi.1010319"> doi: 10.1371/journal.pcbi.1010319. </a>
+    </p>
     <hr>
 
 {% comment %}
