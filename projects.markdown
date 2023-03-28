@@ -50,7 +50,7 @@ title: Projects
 	     </p>
         </h3>
     </header>
-    <img class="img-fluid d-block mx-auto" alt="Angelini & Qian 2023 figure" title="Angelini & Qian 2023 figure" src="/files/thermo_figure_4.png" width="645" height="400">
+    <img class="img-fluid d-block mx-auto" alt="Angelini & Qian 2023 figure" title="Angelini & Qian 2023 figure" src="/files/thermo_figure_4.png" width="483" height="300">
     <p> We present a treatment on statistical measurements of a collection of independent and identically distributed complex particles, showing how the concept of temperature and an ideal gas/solution law arise from this statistical analysis without relying on the concept of mechanical energy. Indeed, when sampling from an ergodic system, the data <i> ad infinitum </i> limit elucidates how the entropy function characterizes randomness among measurements with the emergence of a novel energetic representation for the statistics. This generalization of Gibbs' theory is applicable to statistical measurements on single living cells and other complex biological organisms, one individual at a time. </p>
     <p> Angelini, E. and Qian, H. "Statistical analysis of random motion and energetic behavior of counting: Gibbs' theory revisited." <i> J Phys Chem B </i> 127(11): 2552-2564 (2023).
     <a href = "https://doi.org/10.1021/acs.jpcb.2c08976"> doi: 10.1021/acs.jpcb.2c08976. </a>
