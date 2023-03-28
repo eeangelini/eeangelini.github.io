@@ -36,7 +36,7 @@ title: Projects
 	     </p>
         </h3>
     </header>
-    <p> Applying the concept of an ``epigenetic landscape'' to the phenotypic evolution of cancer, our aim is to use a combination  of theory and experiments to gain functional insight into the non-genetic heterogeneity observed in tumors. Specifically, we are developing a mathematical framework to infer phenotype transition rates using single-cell transcriptomic data from lineage tracing experiments. This project is part of an ongoing collaboration with Dr. Sui Huang at the Institute for Systems Biology in Seattle, WA, and is supported by NIH grant R01GM135396 (PI: Sui Huang). </p>
+    <p> Applying the concept of an epigenetic landscape for cellular differentiation to the phenotypic evolution of cancer, our aim is to gain functional insight into the non-genetic heterogeneity observed in tumors via a combination of theory and experiments. Specifically, we are developing a mathematical framework to infer phenotype transition rates using single-cell transcriptomic data from lineage tracing experiments. This project is part of an ongoing collaboration with Dr. Sui Huang at the Institute for Systems Biology in Seattle, WA, and is supported by NIH grant R01GM135396 (PI: Sui Huang). </p>
     <hr>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
