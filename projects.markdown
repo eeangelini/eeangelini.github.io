@@ -27,19 +27,19 @@ title: Projects
     </header>
     <hr>
 
-{% comment %}
-
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
         <h3 style="color:#21A362;" class="text-left">
             Quantifying Cellular Heterogeneity
 	     <br>
 	     <p style="font-size:15px">
-	        <em>University of Washington (2020-present) </em>
+	        <em>University of Washington & Institue for Systems Biology (2020-present) </em>
 	     </p>
+         <p>
+            Applying the concept of an ``epigenetic landscape'' to the phenotypic evolution of cancer, our aim is to use a combination  of theory and experiments to gain functional insight into the non-genetic heterogeneity observed in tumors. Specifically, we are developing a mathematical framework to infer phenotype transition rates using single-cell transcriptomic data from lineage tracing experiments. This project is part of an ongoing collaboration with Dr. Sui Huang at the Institute for Systems Biology in Seattle, WA, and is supported by NIH grant R01GM135396 (PI: Sui Huang).
+         </p>
         </h3>
     </header>
     <hr>
-{% endcomment %}
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
         <h3 style="color:#21A362;" class="text-left">
@@ -51,7 +51,7 @@ title: Projects
         </h3>
     </header>
     <img class="img-fluid d-block mx-auto" alt="Angelini & Qian 2023 figure" title="Angelini & Qian 2023 figure" src="/files/thermo_figure_4.png" width="645" height="400">
-    <p> We present a treatment on statistical measurements of random mechanical motions in continuous space, specifically showing how the concept of temperature and an ideal gas/solution law arise from a statistical analysis of a collection of independent and identically distributed complex particles without relying on the concept of mechanical energy. When sampling from an ergodic system, the data ad infinitum limit elucidates how the entropy function characterizes randomness among measurements with the emergence of a novel energetic representation for the statistics and an internal energy additivity. This generalization of Gibbs' theory is applicable to statistical measurements on single living cells and other complex biological organisms, one individual at a time. </p>
+    <p> We present a treatment on statistical measurements of a collection of independent and identically distributed complex particles, showing how the concept of temperature and an ideal gas/solution law arise from this statistical analysis without relying on the concept of mechanical energy. Indeed, when sampling from an ergodic system, the data <i> ad infinitum </i> limit elucidates how the entropy function characterizes randomness among measurements with the emergence of a novel energetic representation for the statistics. This generalization of Gibbs' theory is applicable to statistical measurements on single living cells and other complex biological organisms, one individual at a time. </p>
     <p> Angelini, E. and Qian, H. "Statistical analysis of random motion and energetic behavior of counting: Gibbs' theory revisited." <i> J Phys Chem B </i> 127(11): 2552-2564 (2023).
     <a href = "https://doi.org/10.1021/acs.jpcb.2c08976"> doi: 10.1021/acs.jpcb.2c08976. </a>
     </p>
