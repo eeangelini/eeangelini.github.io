@@ -64,12 +64,12 @@ layout: default
     </address>
 </div>
 
-I am currently a PhD candidate in the <a href="https://amath.washington.edu" style="color: blue">Department of Applied Mathematics</a> at the University of Washington in Seattle, WA. My research interests include stochastic processes, dynamical systems, and convex analysis with applications in developmental and cancer biology. I am advised by <a href = "https://amath.washington.edu/people/hong-qian" style="color: blue"> Dr. Hong Qian</a>.
+I am currently a PhD candidate in the <a href="https://amath.washington.edu">Department of Applied Mathematics</a> at the University of Washington in Seattle, WA. My research interests include stochastic processes, dynamical systems, and convex analysis with applications in developmental and cancer biology. I am advised by <a href = "https://amath.washington.edu/people/hong-qian"> Dr. Hong Qian</a>.
 
 <br>
 <br>
 Before coming to UW, I earned my B.A. in Mathematics from
-<a href="https://www.pomona.edu/academics/departments/mathematics" style="color: blue">
+<a href="https://www.pomona.edu/academics/departments/mathematics">
 Pomona College
 </a>
-in Claremont, CA, where I was advised by <a href = "https://www.linkedin.com/in/blerta-shtylla-a7a11417/" style="color: blue"> Dr. Blerta Shtylla</a>.
+in Claremont, CA, where I was advised by <a href = "https://www.linkedin.com/in/blerta-shtylla-a7a11417/"> Dr. Blerta Shtylla</a>.
