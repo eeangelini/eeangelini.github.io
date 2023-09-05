@@ -26,13 +26,37 @@ title: Teaching
         </nav>
     </header>
     <hr>
-
-    <p style="font-size:15px">Below is a summary of my teaching experience as a teaching assistant at UW. </p>
     
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
         <h3 style="color:#708090;" class="text-left">
-            Calculus with Analytic Geometry I
+            Pre-doctoral Instructor (UW)
         </h3>
+    </header>
+
+    <header class="d-flex flex-column flex-md-row justify-content-md-between ">
+        <h6 style="color:#000000;" class="text-left">
+            Computational Modeling of Biological Systems
+        </h6>
+    </header>
+    <ul>
+	<li> Quarter: Fall 2023 </li>
+	<li> Course code: AMATH 422/522 </li>
+    </ul>
+
+    <header class="d-flex flex-column flex-md-row justify-content-md-between ">
+        <h6 style="color:#000000;" class="text-left">
+            Introduction to Differential Equations and Applications
+        </h6>
+    </header>
+    <ul>
+	<li> Quarter: Summer 2023 </li>
+	<li> Course code: AMATH 351 </li>
+    </ul>
+
+        <header class="d-flex flex-column flex-md-row justify-content-md-between ">
+        <h6 style="color:#000000;" class="text-left">
+            Calculus with Analytic Geometry I
+        </h6>
     </header>
     <ul>
 	<li> Instructor: Zhen-Qing Chen </li>
@@ -43,8 +67,25 @@ title: Teaching
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
         <h3 style="color:#708090;" class="text-left">
-            Partial Differential Equations and Waves
+            Teaching Assistant (UW)
         </h3>
+    </header>
+
+    <header class="d-flex flex-column flex-md-row justify-content-md-between ">
+        <h6 style="color:#000000;" class="text-left">
+            Calculus with Analytic Geometry I
+        </h6>
+    </header>
+    <ul>
+	<li> Instructor: Zhen-Qing Chen </li>
+	<li> Quarter: Fall 2019 </li>
+	<li> Course code: MATH 124 </li>
+    </ul>
+
+    <header class="d-flex flex-column flex-md-row justify-content-md-between ">
+        <h6 style="color:#000000;" class="text-left">
+            Partial Differential Equations and Waves
+        </h6>
     </header>
     <ul>
 	<li> Instructor: Jeremy Upsal </li>
