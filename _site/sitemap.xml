@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://eeangelini.github.io/courses.html</loc>
+<loc>https://eeangelini.github.io/</loc>
 </url>
 <url>
-<loc>https://eeangelini.github.io/</loc>
+<loc>https://eeangelini.github.io/courses.html</loc>
 </url>
 <url>
 <loc>https://eeangelini.github.io/projects.html</loc>
@@ -14,5 +14,17 @@
 </url>
 <url>
 <loc>https://eeangelini.github.io/files/GRC_2023_Presentation.pdf</loc>
+</url>
+<url>
+<loc>https://eeangelini.github.io/files/MathOnc23_Presentation.pdf</loc>
+</url>
+<url>
+<loc>https://eeangelini.github.io/files/param_schema_1.png</loc>
+</url>
+<url>
+<loc>https://eeangelini.github.io/files/profile-pic.jpeg</loc>
+</url>
+<url>
+<loc>https://eeangelini.github.io/files/thermo_figure_4.png</loc>
 </url>
 </urlset>

@@ -28,7 +28,7 @@ title: Teaching
     <hr>
     
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#708090;" class="text-left">
+        <h3 style="color:#63666A;" class="text-left">
             Pre-doctoral Instructor (UW)
         </h3>
     </header>
@@ -55,7 +55,7 @@ title: Teaching
     <hr>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#708090;" class="text-left">
+        <h3 style="color:#63666A;" class="text-left">
             Teaching Assistant (UW)
         </h3>
     </header>
