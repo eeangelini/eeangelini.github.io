@@ -9,6 +9,7 @@ title: Teaching
     <link rel="canonical" href="https://eeangelini.github.io/courses">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
     <link rel="stylesheet" href="files/main.css">
+    h5 + ul {margin-top: -10px;}      
 </head>
 
 <body>
