@@ -15,7 +15,7 @@ title: Teaching
 <div>
 
      <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h2 style="color:rgb(80, 120, 160);" class="text-center">
+        <h2 style="color:#1C5792;" class="text-center">
             Teaching Experience
         </h2>
         <nav class="nav justify-content-center">
@@ -28,14 +28,14 @@ title: Teaching
     <hr>
     
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#21A362;" class="text-left">
+        <h3 style="color:#14613B;" class="text-left">
             Pre-doctoral Instructor (UW)
         </h3>
     </header>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h5 style="color:#000000;" class="text-left">
-            Computational Modeling of Biological Systems
+        <h5 style="color:#403F3F;" class="text-left">
+            <em> Computational Modeling of Biological Systems </em>
         </h5>
     </header>
     <ul>
@@ -44,8 +44,8 @@ title: Teaching
     </ul>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h5 style="color:#000000;" class="text-left">
-            Introduction to Differential Equations and Applications
+        <h5 style="color:#403F3F;" class="text-left">
+            <em> Introduction to Differential Equations and Applications </em>
         </h5>
     </header>
     <ul>
@@ -55,14 +55,14 @@ title: Teaching
     <hr>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#21A362;" class="text-left">
+        <h3 style="color:#14613B;" class="text-left">
             Teaching Assistant (UW)
         </h3>
     </header>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h5 style="color:#000000;" class="text-left">
-            Calculus with Analytic Geometry I
+        <h5 style="color:#403F3F;" class="text-left">
+            <em> Calculus with Analytic Geometry I </em>
         </h5>
     </header>
     <ul>
@@ -72,8 +72,8 @@ title: Teaching
     </ul>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h5 style="color:#000000;" class="text-left">
-            Partial Differential Equations and Waves
+        <h5 style="color:#403F3F;" class="text-left">
+            <em> Partial Differential Equations and Waves </em>
         </h5>
     </header>
     <ul>

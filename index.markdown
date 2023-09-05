@@ -17,7 +17,7 @@ layout: default
 <div class="container">
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h2 style="color:rgb(80, 120, 160);" class="text-center">
+        <h2 style="color:#1C5792;" class="text-center">
             Erin Angelini
         </h2>
         <nav class="nav justify-content-center">

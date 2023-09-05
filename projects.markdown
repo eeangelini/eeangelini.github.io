@@ -15,7 +15,7 @@ title: Projects
 <div>
 
      <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h2 style="color:rgb(80, 120, 160);" class="text-center">
+        <h2 style="color:#1C5792;" class="text-center">
             Projects
         </h2>
         <nav class="nav justify-content-center">
@@ -28,7 +28,7 @@ title: Projects
     <hr>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#21A362;" class="text-left">
+        <h3 style="color:#14613B;" class="text-left">
             Quantifying Cellular Heterogeneity
 	     <br>
 	     <p style="font-size:15px">
@@ -40,7 +40,7 @@ title: Projects
     <hr>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#21A362;" class="text-left">
+        <h3 style="color:#14613B;" class="text-left">
              Stochastic Thermodynamics of the Single Cell
 	     <br>
 	     <p style="font-size:15px">
@@ -56,7 +56,7 @@ title: Projects
     <hr>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#21A362;" class="text-left">
+        <h3 style="color:#14613B;" class="text-left">
              Evolutionary Dynamics of Tumor Recurrence
 	     <br>
 	     <p style="font-size:15px">
@@ -75,7 +75,7 @@ title: Projects
 {% comment %}
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#21A362;" class="text-left">
+        <h3 style="color:#14613B;" class="text-left">
              Spindle Alignment in Early <em>C. elegans</em> Development
 	     <br>
 	     <p style="font-size:15px">
