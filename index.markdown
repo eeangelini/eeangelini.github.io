@@ -15,10 +15,6 @@ layout: default
       a:link {
          color: #0D6407;
       }
-      a:visited {
-         color: #1C5792;
-         font-style: italic
-      }
    </style>
 </head>
 
