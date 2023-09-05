@@ -43,7 +43,7 @@ layout: default
         <br>
         <strong>University of Washington </strong>
         <br>
-        <a href="mailto:eang@uw.edu">
+        <a href="mailto:eang@uw.edu" style="color: blue">
             eang@uw.edu
         </a>
         <br>
