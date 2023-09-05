@@ -13,15 +13,11 @@ layout: default
     <link rel="stylesheet" href="files/main.css">
     <style>
       a:link {
-         color: #055e85;
+         color: #0D6407;
       }
       a:visited {
          color: #1C5792;
          font-style: italic
-      }
-      a:active {
-         color: #0D6407;
-         text-decoration: underline;
       }
    </style>
 </head>
