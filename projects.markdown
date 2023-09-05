@@ -28,7 +28,7 @@ title: Projects
     <hr>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#14613B;" class="text-left">
+        <h3 style="color:#0D6407;" class="text-left">
             Quantifying Cellular Heterogeneity
 	     <br>
 	     <p style="font-size:15px">
@@ -40,7 +40,7 @@ title: Projects
     <hr>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#14613B;" class="text-left">
+        <h3 style="color:#0D6407;" class="text-left">
              Stochastic Thermodynamics of the Single Cell
 	     <br>
 	     <p style="font-size:15px">
@@ -56,7 +56,7 @@ title: Projects
     <hr>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#14613B;" class="text-left">
+        <h3 style="color:#0D6407;" class="text-left">
              Evolutionary Dynamics of Tumor Recurrence
 	     <br>
 	     <p style="font-size:15px">
@@ -75,7 +75,7 @@ title: Projects
 {% comment %}
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#14613B;" class="text-left">
+        <h3 style="color:#0D6407;" class="text-left">
              Spindle Alignment in Early <em>C. elegans</em> Development
 	     <br>
 	     <p style="font-size:15px">

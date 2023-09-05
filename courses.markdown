@@ -28,14 +28,14 @@ title: Teaching
     <hr>
     
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#14613B;" class="text-left">
+        <h3 style="color:#0D6407;" class="text-left">
             Pre-doctoral Instructor (UW)
         </h3>
     </header>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
         <h5 style="color:#403F3F;" class="text-left">
-            <em> Computational Modeling of Biological Systems </em>
+            Computational Modeling of Biological Systems
         </h5>
     </header>
     <ul>
@@ -45,7 +45,7 @@ title: Teaching
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
         <h5 style="color:#403F3F;" class="text-left">
-            <em> Introduction to Differential Equations and Applications </em>
+            Introduction to Differential Equations and Applications
         </h5>
     </header>
     <ul>
@@ -55,14 +55,14 @@ title: Teaching
     <hr>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h3 style="color:#14613B;" class="text-left">
+        <h3 style="color:#0D6407;" class="text-left">
             Teaching Assistant (UW)
         </h3>
     </header>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
         <h5 style="color:#403F3F;" class="text-left">
-            <em> Calculus with Analytic Geometry I </em>
+            Calculus with Analytic Geometry I
         </h5>
     </header>
     <ul>
@@ -73,7 +73,7 @@ title: Teaching
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
         <h5 style="color:#403F3F;" class="text-left">
-            <em> Partial Differential Equations and Waves </em>
+            Partial Differential Equations and Waves
         </h5>
     </header>
     <ul>
