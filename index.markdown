@@ -11,6 +11,19 @@ layout: default
     <link rel="canonical" href="https://eeangelini.github.io/">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
     <link rel="stylesheet" href="files/main.css">
+    <style>
+      a:link {
+         font-weight: bold;
+      }
+      a:visited {
+         color: #1C5792;
+         font-style: italic
+      }
+      a:active {
+         color: #0D6407;
+         text-decoration: underline;
+      }
+   </style>
 </head>
 
 <body>
