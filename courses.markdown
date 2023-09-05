@@ -8,8 +8,7 @@ title: Teaching
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="https://eeangelini.github.io/courses">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
-    <link rel="stylesheet" href="files/main.css">
-    h5 + ul {margin-top: -10px;}      
+    <link rel="stylesheet" href="files/main.css">      
 </head>
 
 <body>
@@ -39,7 +38,7 @@ title: Teaching
             Computational Modeling of Biological Systems
         </h5>
     </header>
-    <ul>
+    <ul style="margin-top:-10px;">
 	<li> Quarter: Fall 2023 </li>
 	<li> Course code: AMATH 422/522 </li>
     </ul>
@@ -49,7 +48,7 @@ title: Teaching
             Introduction to Differential Equations and Applications
         </h5>
     </header>
-    <ul>
+    <ul style="margin-top:-10px;">
 	<li> Quarter: Summer 2023 </li>
 	<li> Course code: AMATH 351 </li>
     </ul>
@@ -66,7 +65,7 @@ title: Teaching
             Calculus with Analytic Geometry I
         </h5>
     </header>
-    <ul>
+    <ul style="margin-top:-10px;">
 	<li> Instructor: Zhen-Qing Chen </li>
 	<li> Quarter: Fall 2019 </li>
 	<li> Course code: MATH 124 </li>
@@ -77,7 +76,7 @@ title: Teaching
             Partial Differential Equations and Waves
         </h5>
     </header>
-    <ul>
+    <ul style="margin-top:-10px;">
 	<li> Instructor: Jeremy Upsal </li>
 	<li> Quarter: Spring 2019 </li>
 	<li> Course code: AMATH 353 </li>
