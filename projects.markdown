@@ -60,7 +60,7 @@ title: Projects
              Evolutionary Dynamics of Tumor Recurrence
 	     <br>
 	     <p style="font-size:15px">
-	         <em>University of Washington (2019-2022) </em>
+	         <em>University of Washington & Institue for Systems Biology (2019-2022) </em>
 	     </p>
         </h3>
     </header>
