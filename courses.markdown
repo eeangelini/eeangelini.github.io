@@ -34,9 +34,9 @@ title: Teaching
     </header>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h6 style="color:#000000;" class="text-left">
+        <h5 style="color:#000000;" class="text-left">
             Computational Modeling of Biological Systems
-        </h6>
+        </h5>
     </header>
     <ul>
 	<li> Quarter: Fall 2023 </li>
@@ -44,24 +44,13 @@ title: Teaching
     </ul>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h6 style="color:#000000;" class="text-left">
+        <h5 style="color:#000000;" class="text-left">
             Introduction to Differential Equations and Applications
-        </h6>
+        </h5>
     </header>
     <ul>
 	<li> Quarter: Summer 2023 </li>
 	<li> Course code: AMATH 351 </li>
-    </ul>
-
-        <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h6 style="color:#000000;" class="text-left">
-            Calculus with Analytic Geometry I
-        </h6>
-    </header>
-    <ul>
-	<li> Instructor: Zhen-Qing Chen </li>
-	<li> Quarter: Fall 2019 </li>
-	<li> Course code: MATH 124 </li>
     </ul>
     <hr>
 
@@ -72,9 +61,9 @@ title: Teaching
     </header>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h6 style="color:#000000;" class="text-left">
+        <h5 style="color:#000000;" class="text-left">
             Calculus with Analytic Geometry I
-        </h6>
+        </h5>
     </header>
     <ul>
 	<li> Instructor: Zhen-Qing Chen </li>
@@ -83,9 +72,9 @@ title: Teaching
     </ul>
 
     <header class="d-flex flex-column flex-md-row justify-content-md-between ">
-        <h6 style="color:#000000;" class="text-left">
+        <h5 style="color:#000000;" class="text-left">
             Partial Differential Equations and Waves
-        </h6>
+        </h5>
     </header>
     <ul>
 	<li> Instructor: Jeremy Upsal </li>
