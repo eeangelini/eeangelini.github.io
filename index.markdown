@@ -51,7 +51,7 @@ layout: default
     </address>
 </div>
 
-I am currently a PhD candidate in the <a href="https://amath.washington.edu" style="color: blue">Department of Applied Mathematics</a> at the University of Washington in Seattle, WA. My research interests include stochastic processes, dynamical systems, and convex analysis with applications in developmental and cancer biology. I am advised by <a href = "https://amath.washington.edu/people/hong-qian"> Dr. Hong Qian</a>.
+I am currently a PhD candidate in the <a href="https://amath.washington.edu" style="color: blue">Department of Applied Mathematics</a> at the University of Washington in Seattle, WA. My research interests include stochastic processes, dynamical systems, and convex analysis with applications in developmental and cancer biology. I am advised by <a href = "https://amath.washington.edu/people/hong-qian" style="color: blue"> Dr. Hong Qian</a>.
 
 <br>
 <br>
