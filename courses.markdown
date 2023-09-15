@@ -51,6 +51,7 @@ title: Teaching
     <ul style="margin-top:-10px;">
 	<li> Quarter: Summer 2023 </li>
 	<li> Course code: AMATH 351 </li>
+    <li> <a href="https://eeangelini.github.io/files/Angelini_AMATH_351_Combined_Notes.pdf">Course notes</a> </li>
     </ul>
     <hr>
 
