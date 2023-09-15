@@ -15,7 +15,7 @@ layout: default
       a:link {
          color: #0D6407;
       }
-   </style>
+    </style>
 </head>
 
 <body>
